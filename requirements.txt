@@ -1,0 +1,9 @@
+# Telegram Anonymous Bot Dependencies
+# Compatible with Python 3.10+
+
+python-telegram-bot==21.6
+# python-telegram-bot[job-queue]==21.6  # Uncomment if you need job queue features
+# python-telegram-bot[webhooks]==21.6  # Uncomment if you need webhook support
+
+# Optional: For enhanced logging (already in stdlib for basic usage)
+# structlog==24.1.0
